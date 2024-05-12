@@ -6,7 +6,8 @@
 Utilized Tableau to create interactive dashboards and stories for analyzing rental listings data for StayCatin.com, a platform similar to Airbnb. The project aimed to provide stakeholders with valuable insights into rental prices, occupancy rates, and customer preferences, facilitating informed decision-making.
 
 **Tools Used:**
-Tableau for data visualization & CSV data files for rental listing data
+* Tableau for data visualization 
+* CSV data files for rental listing data
 
 **Achievements:**
 Received commendation from stakeholders for the clarity and effectiveness of the visualizations.
