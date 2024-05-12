@@ -1,5 +1,7 @@
 StayCatin.com
 
+Tableau Link: https://public.tableau.com/views/ProjectStaycatin_com_17142228085940/Story_AkashKrishna?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 My tableau project emerged as a cornerstone of this endeavor, employing advanced tools and honed skills to transform raw data into actionable insights.
 
 Utilizing Tableau as my canvas and CSV data files as my palette, I meticulously crafted interactive dashboards and compelling stories. These visualizations transcended the realm of mere analytics, serving as dynamic windows into StayCatin.com's rental landscape. My proficiency with Tableau enabled me to manipulate and present data with precision and elegance. Through innovative visualization techniques, I brought clarity to complex datasets, unveiling trends and patterns that were previously obscured.
