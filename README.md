@@ -1,14 +1,14 @@
-Project Title: StayCatin.com
+**Project Title:** **StayCatin.com**
 
-Tableau Link: https://public.tableau.com/views/ProjectStaycatin_com_17142228085940/Story_AkashKrishna?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+**Tableau Link:** https://public.tableau.com/views/ProjectStaycatin_com_17142228085940/Story_AkashKrishna?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-Project Overview:
+**Project Overview:**
 Utilized Tableau to create interactive dashboards and stories for analyzing rental listings data for StayCatin.com, a platform similar to Airbnb. The project aimed to provide stakeholders with valuable insights into rental prices, occupancy rates, and customer preferences, facilitating informed decision-making.
 
-Tools Used:
+**Tools Used:**
 Tableau for data visualization & CSV data files for rental listing data
 
-Achievements:
+**Achievements:**
 Received commendation from stakeholders for the clarity and effectiveness of the visualizations.
 Facilitated better understanding of market trends through insightful data visualization.
 Contributed to improved decision-making processes at StayCatin.com by providing actionable insights derived from the data visualizations.
