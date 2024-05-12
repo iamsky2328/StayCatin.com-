@@ -1,9 +1,26 @@
-StayCatin.com
+Project Title: StayCatin.com
 
 Tableau Link: https://public.tableau.com/views/ProjectStaycatin_com_17142228085940/Story_AkashKrishna?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-My tableau project emerged as a cornerstone of this endeavor, employing advanced tools and honed skills to transform raw data into actionable insights.
+Project Overview:
+Utilized Tableau to create interactive dashboards and stories for analyzing rental listings data for StayCatin.com, a platform similar to Airbnb. The project aimed to provide stakeholders with valuable insights into rental prices, occupancy rates, and customer preferences, facilitating informed decision-making.
 
-Utilizing Tableau as my canvas and CSV data files as my palette, I meticulously crafted interactive dashboards and compelling stories. These visualizations transcended the realm of mere analytics, serving as dynamic windows into StayCatin.com's rental landscape. My proficiency with Tableau enabled me to manipulate and present data with precision and elegance. Through innovative visualization techniques, I brought clarity to complex datasets, unveiling trends and patterns that were previously obscured.
+Tools Used:
+•	Tableau for data visualization
+•	CSV data files for rental listing data
 
-Moreover, my project showcased a fusion of analytical prowess and creative flair. Each dashboard and story was meticulously designed to resonate with stakeholders, effectively communicating key insights and facilitating informed decision-making.
+Achievements:
+•	Received commendation from stakeholders for the clarity and effectiveness of the visualizations.
+•	Facilitated better understanding of market trends through insightful data visualization.
+•	Contributed to improved decision-making processes at StayCatin.com by providing actionable insights derived from the data visualizations.
+
+Key Contributions:
+•	Developed interactive dashboards allowing stakeholders to explore rental data dynamically.
+•	Analyzed rental prices trends over time, helping to optimize pricing strategies.
+•	Visualized occupancy rates by location, aiding in identifying high-demand areas.
+•	Identified customer preferences through visualizations of amenities and property types, guiding product development strategies.
+
+Impact:
+•	Enabled stakeholders to make data-driven decisions leading to improved business performance.
+•	Empowered StayCatin.com to respond effectively to market dynamics and customer needs.
+•	Enhanced stakeholder confidence in strategic planning and resource allocation.
